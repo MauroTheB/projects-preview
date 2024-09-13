@@ -6,4 +6,4 @@ Here are the links to the current previews of my projects:
 
 - **Drunk Stride**: [Link to trailer](#)  <!-- Replace # with the actual URL -->
 
-- **Tide Walker Trailer**: [Link to trailer](#)  <!-- Replace # with the actual URL -->
+- **Tide Walker**: [Link to trailer](#)  <!-- Replace # with the actual URL -->

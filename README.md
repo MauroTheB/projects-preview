@@ -8,5 +8,5 @@ Here are the links to the current previews of my projects:
 - **Drunk Stride**: [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
   - *Description*: A brief description of the project "Drunk Stride". (You can replace this text with an actual description.)
 
-- **Tide Walker**: [Watch on Google Drive](#)  <!-- Replace # with the actual URL -->
+- **Tide Walker**: [Watch on Google Drive](https://drive.google.com/file/d/1n31xoqyCNswaqyIzV96ZRgyxjISxT7HT/view?usp=drive_link)
   - *Description*: A brief description of the project "Tide Walker". (You can replace this text with an actual description.)

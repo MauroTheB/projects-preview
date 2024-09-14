@@ -8,6 +8,8 @@ Here are the links to the current previews of my projects:
     to a third-person perspective behind the player. From this point, the player must navigate the maze by recalling the path to the exit seen earlier 
     in the 2D view. Players can use potions found around the map or purchased from hidden vendors to help them find their way out of the maze.
 
+    Game entirely made by me during an internship and brought to the final thesis.
+
 - **Drunk Stride**: [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
   - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
     and never falls off the plane it rests on.

@@ -10,5 +10,5 @@ Here are the links to the current previews of my projects:
                                         never falls off the plane it rests on
 
 - **Tide Walker**: [Watch on Google Drive](https://drive.google.com/file/d/1n31xoqyCNswaqyIzV96ZRgyxjISxT7HT/view?usp=drive_link)
-  - *Description*: University project: Implement intelligence for an agent to navigate a hilly terrain generated with Perlin noise, ensuring it
-                                       avoids being submerged by a tide that rises and falls, making some areas underwater
+  - *Description*: University project - Implement intelligence for an agent to navigate a hilly terrain generated with Perlin noise, ensuring it
+                                        avoids being submerged by a tide that rises and falls, making some areas underwater

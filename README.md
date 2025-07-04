@@ -3,6 +3,7 @@
 Here are the links to the current previews of my projects:
 
 **Personal Prtojects**:
+
 - **A Child's Tale: Whisper of the Puppeteer**
     - *Description*: A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and         optionally free other victims).
         Will you save her… or will he turn YOU into a puppet?
@@ -23,7 +24,8 @@ Here are the links to the current previews of my projects:
     
     Game Designer, Game Programmer
     
-    Trailer: [Watch the trailer on Google Drive](https://drive.google.com/file/d/12W3EX7RABc43gZaFWH8LvWc5JIsfaUO5/view)
+    Trailer: [Watch it on Google Drive](https://drive.google.com/file/d/12W3EX7RABc43gZaFWH8LvWc5JIsfaUO5/view)
+    Gameplay: [Watch it on Google Drive](https://drive.google.com/drive/u/0/folders/1ZdmIKbaqoas4z6Pjm1D3olPL7jcZrNQp)
 
 
 **Achademic/Collaborative Projects**:

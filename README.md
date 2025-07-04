@@ -27,6 +27,19 @@ Here are the links to the current previews of my projects:
 
 
 **Achademic/Collaborative Projects**:
+
+- **Pomegranade: Limbo**
+    - *Description*: A 2–4 player co-op survival game set in an enchanted forest limbo. Players alternate between frantic combat—using weapons whose ammunition is crafted from harvested magical pomegranates—and strategic calm phases where they repair shelters and tend a         bonfire before the petrifying dawn resets the threat.
+        Can the fire of your friendship overcome to fuel the bonfire flame?
+    
+    Authors: Mauro Brochier, Leandro Bognanni, Luca iovine
+    University of Milan
+
+    Team Leader, Lead Designer, Game Programmer
+  
+    [Trailer](https://www.youtube.com/watch?v=iTNlmDLAY84)
+    [Gameplay](https://www.youtube.com/watch?v=KJZ43R5dVLI)
+
 - **Murder Mystery Incorporated**
     - *Description*: A 2D puzzle-strategy game for PC and browser in which you play a rookie agent of a shadowy intelligence agency. Plan and watch “perfect murders” by arranging agents’ actions and placing items on a timeline—ensuring your target dies without arousing         suspicion.
     
@@ -34,6 +47,9 @@ Here are the links to the current previews of my projects:
     University of Milan
     
     Game Programmer, AI Programmer
+
+    [Trailer](https://www.youtube.com/watch?v=ZpdFg5MHrdI)
+    [Gameplay](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)
 
 - **Drunk Stride**: 
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 

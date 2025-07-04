@@ -41,6 +41,7 @@ Here are the links to the current previews of my projects:
     Team Leader, Lead Designer, Game Programmer
 
   [Trailer](https://www.youtube.com/watch?v=iTNlmDLAY84)
+  
   [Gameplay](https://www.youtube.com/watch?v=KJZ43R5dVLI)
 
 - **Murder Mystery Incorporated**
@@ -52,6 +53,7 @@ Here are the links to the current previews of my projects:
     Game Programmer, AI Programmer
 
   [Trailer](https://www.youtube.com/watch?v=ZpdFg5MHrdI)
+  
   [Gameplay](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)
 
 - **Drunk Stride**: 

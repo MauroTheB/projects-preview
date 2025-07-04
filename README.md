@@ -11,7 +11,7 @@ Here are the links to the current previews of my projects:
    
     Game Designer, Game Programmer
 
-    Gameplay Trailer: soon out.. release date: TODAY(4/07/2025) 
+    Gameplay Trailer: soon out.. release date: TODAY(4/07/2025) 1:00 p.m.
 
 - **Maze's Soul** 
     - *Description*: The game examines how a player's mind retains a 2D representation of the game world and applies it to a 3D view of the same world. 

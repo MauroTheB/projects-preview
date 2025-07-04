@@ -24,8 +24,8 @@ Here are the links to the current previews of my projects:
     
     Game Designer, Game Programmer
     
-    Trailer: [Watch it on Google Drive](https://drive.google.com/file/d/12W3EX7RABc43gZaFWH8LvWc5JIsfaUO5/view)
-    Gameplay: [Watch it on Google Drive](https://drive.google.com/drive/u/0/folders/1ZdmIKbaqoas4z6Pjm1D3olPL7jcZrNQp)
+  Trailer: [Watch it on Google Drive](https://drive.google.com/file/d/12W3EX7RABc43gZaFWH8LvWc5JIsfaUO5/view)
+  Gameplay: [Watch it on Google Drive](https://drive.google.com/drive/u/0/folders/1ZdmIKbaqoas4z6Pjm1D3olPL7jcZrNQp)
 
 
 **Achademic/Collaborative Projects**:
@@ -38,9 +38,9 @@ Here are the links to the current previews of my projects:
     University of Milan
 
     Team Leader, Lead Designer, Game Programmer
-  
-    [Trailer](https://www.youtube.com/watch?v=iTNlmDLAY84)
-    [Gameplay](https://www.youtube.com/watch?v=KJZ43R5dVLI)
+
+  [Trailer](https://www.youtube.com/watch?v=iTNlmDLAY84)
+  [Gameplay](https://www.youtube.com/watch?v=KJZ43R5dVLI)
 
 - **Murder Mystery Incorporated**
     - *Description*: A 2D puzzle-strategy game for PC and browser in which you play a rookie agent of a shadowy intelligence agency. Plan and watch “perfect murders” by arranging agents’ actions and placing items on a timeline—ensuring your target dies without arousing         suspicion.
@@ -50,8 +50,8 @@ Here are the links to the current previews of my projects:
     
     Game Programmer, AI Programmer
 
-    [Trailer](https://www.youtube.com/watch?v=ZpdFg5MHrdI)
-    [Gameplay](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)
+  [Trailer](https://www.youtube.com/watch?v=ZpdFg5MHrdI)
+  [Gameplay](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)
 
 - **Drunk Stride**: 
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
@@ -60,7 +60,7 @@ Here are the links to the current previews of my projects:
     Authors: Mauro Brochier
     University of Milan
   
-    [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
+  [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
 
 - **Tide Walker**: 
     - *Description*: University project - Implement intelligence for an agent to navigate a hilly terrain generated with Perlin noise, ensuring it avoids 
@@ -69,4 +69,4 @@ Here are the links to the current previews of my projects:
     Authors: Mauro Brochier
     University of Milan
 
-    [Watch on Google Drive](https://drive.google.com/file/d/1n31xoqyCNswaqyIzV96ZRgyxjISxT7HT/view?usp=drive_link)
+  [Watch on Google Drive](https://drive.google.com/file/d/1n31xoqyCNswaqyIzV96ZRgyxjISxT7HT/view?usp=drive_link)

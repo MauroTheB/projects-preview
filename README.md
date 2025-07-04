@@ -4,8 +4,8 @@ Here are the links to the current previews of my projects:
 
 **Personal Prtojects**:
 - **A Child's Tale: Whisper of the Puppeteer**
-    A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and optionally free         other victims).
-    Will you save her… or will he turn YOU into a puppet?
+    - *Description*: A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and         optionally free other victims).
+        Will you save her… or will he turn YOU into a puppet?
 
     Authors: Mauro Brochier
    
@@ -27,6 +27,12 @@ Here are the links to the current previews of my projects:
 
 
 **Achademic/Collaborative Projects**:
+- Murder Mystery Incorporated
+A 2D puzzle-strategy game for PC and browser in which you play a rookie agent of a shadowy intelligence agency. Plan and watch “perfect murders” by arranging agents’ actions and placing items on a timeline—ensuring your target dies without arousing suspicion.
+Authors: Mauro Brochier, Matteo Mangioni, Anthony Baiamonte, Christian Colombo
+University of Milan (academic exercise) / Personal project
+Character: Game Programmer, AI Programmer
+
 - **Drunk Stride**: 
   - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
     and never falls off the plane it rests on.

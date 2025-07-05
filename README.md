@@ -58,10 +58,16 @@ Here are the links to the current previews of my projects:
   [Gameplay](https://www.youtube.com/watch?v=KJZ43R5dVLI)
 
     <p align="center">
+      <!-- le due immagini affiancate -->
       <img src="POMEGRANADE_DAY.png" width="45%" />
       &nbsp;
       <img src="POMEGRANADE_NIGHT.png" width="45%" />
+      <!-- vai a capo con un po’ di spazio -->
+      <br /><br />
+      <!-- immagine centrale in basso -->
+      <img src="POMEGRANADE_FIGHT.png" width="45%" />
     </p>
+
 
 - **Murder Mystery Incorporated**
     - *Description*: A 2D puzzle-strategy game for PC and browser in which you play a rookie agent of a shadowy intelligence agency. Plan and watch “perfect murders” by arranging agents’ actions and placing items on a timeline—ensuring your target dies without arousing         suspicion.

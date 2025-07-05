@@ -7,6 +7,7 @@ Here are the links to the current previews of my projects:
 - **A Child's Tale: Whisper of the Puppeteer**
     - *Description*: A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and         optionally free other victims).
         Will you save her… or will he turn YOU into a puppet?
+    
     PC platform
 
     Authors: Mauro Brochier
@@ -23,6 +24,7 @@ Here are the links to the current previews of my projects:
         The game starts with a 30-second look at a maze, where the start and exit points are marked. When the timer runs out, the view smoothly transitions 
         to a third-person perspective behind the player. From this point, the player must navigate the maze by recalling the path to the exit seen earlier 
         in the 2D view. Players can use potions found around the map or purchased from hidden vendors to help them find their way out of the maze.
+    
     Mobile platform
 
     Authors: Mauro Brochier
@@ -39,6 +41,7 @@ Here are the links to the current previews of my projects:
 - **Pomegranade: Limbo**
     - *Description*: A 2–4 player co-op survival game set in an enchanted forest limbo. Players alternate between frantic combat—using weapons whose ammunition is crafted from harvested magical pomegranates—and strategic calm phases where they repair shelters and tend a         bonfire before the petrifying dawn resets the threat.
         Can the fire of your friendship overcome to fuel the bonfire flame?
+    
     PC platform
 
     Authors: Mauro Brochier, Leandro Bognanni, Luca iovine
@@ -52,6 +55,7 @@ Here are the links to the current previews of my projects:
 
 - **Murder Mystery Incorporated**
     - *Description*: A 2D puzzle-strategy game for PC and browser in which you play a rookie agent of a shadowy intelligence agency. Plan and watch “perfect murders” by arranging agents’ actions and placing items on a timeline—ensuring your target dies without arousing         suspicion.
+    
     PC platform
 
     Authors: Mauro Brochier, Matteo Mangioni, Anthony Baiamonte, Christian Colombo

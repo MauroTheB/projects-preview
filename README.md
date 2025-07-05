@@ -15,6 +15,9 @@ Here are the links to the current previews of my projects:
 
     Gameplay (Use headphones for the best experience — advanced audio techniques have been applied, and some sounds may be inaudible without them): [Watch it on Google Drive](https://drive.google.com/file/d/1CdrBNqMxAHN5BlASmGRHs-pMYHlzATpJ/view?usp=sharing)
 
+![Alt](COPERTINA_PUPPETEER.png)
+
+    
 - **Maze's Soul** 
     - *Description*: The game examines how a player's mind retains a 2D representation of the game world and applies it to a 3D view of the same world. 
         The game starts with a 30-second look at a maze, where the start and exit points are marked. When the timer runs out, the view smoothly transitions 

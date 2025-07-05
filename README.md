@@ -35,10 +35,11 @@ Here are the links to the current previews of my projects:
   Gameplay: [Watch it on Google Drive](https://drive.google.com/file/d/10Y3-aBIdrhYNOY0qGETORsAF6O3ZUk7a/view?usp=sharing)
 
   <p align="center">
-      <img src="COPERTINA_MAZE_2D.png" width="45%" />
-      &nbsp;
-      <img src="COPERTINA_MAZE_3D.png" width="45%" />
+  <img src="COPERTINA_MAZE_2D.png" width="22.5%" />
+  &nbsp;
+  <img src="COPERTINA_MAZE_3D.png" width="22.5%" />
   </p>
+
 
 **Achademic/Collaborative Projects**:
 

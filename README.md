@@ -33,7 +33,7 @@ Here are the links to the current previews of my projects:
     
   Trailer: [Watch it on Google Drive](https://drive.google.com/file/d/12W3EX7RABc43gZaFWH8LvWc5JIsfaUO5/view)
   
-  Gameplay: [Watch it on Google Drive](https://drive.google.com/drive/u/0/folders/1ZdmIKbaqoas4z6Pjm1D3olPL7jcZrNQp)
+  Gameplay: [Watch it on Google Drive](https://drive.google.com/file/d/10Y3-aBIdrhYNOY0qGETORsAF6O3ZUk7a/view?usp=sharing)
 
 
 **Achademic/Collaborative Projects**:

@@ -17,7 +17,6 @@ Here are the links to the current previews of my projects:
     Gameplay (Use headphones for the best experience — advanced audio techniques have been applied, and some sounds may be inaudible without them): [Watch it on Google Drive](https://drive.google.com/file/d/1CdrBNqMxAHN5BlASmGRHs-pMYHlzATpJ/view?usp=sharing)
 
 ![Alt](COPERTINA_PUPPETEER.png)
-
     
 - **Maze's Soul** 
     - *Description*: The game examines how a player's mind retains a 2D representation of the game world and applies it to a 3D view of the same world. 
@@ -35,6 +34,7 @@ Here are the links to the current previews of my projects:
   
   Gameplay: [Watch it on Google Drive](https://drive.google.com/file/d/10Y3-aBIdrhYNOY0qGETORsAF6O3ZUk7a/view?usp=sharing)
 
+![Alt](COPERTINA_MAZE_2D.png) ![Alt](COPERTINA_MAZE_3D.png)
 
 **Achademic/Collaborative Projects**:
 

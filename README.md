@@ -43,7 +43,7 @@ Here are the links to the current previews of my projects:
 **Achademic/Collaborative Projects**:
 
 - **Pomegranade: Limbo**
-    - *Description*: A 2–4 player co-op survival game set in an enchanted forest limbo. Players alternate between frantic combat—using weapons whose ammunition is crafted from harvested magical pomegranates—and strategic calm phases where they repair shelters and tend a         bonfire before the petrifying dawn resets the threat.
+    - *Description*: A 2–4 online multiplayer co-op survival game set in an enchanted forest limbo. Players alternate between frantic combat—using weapons whose ammunition is crafted from harvested magical pomegranates—and strategic calm phases where they repair shelters and tend a         bonfire before the petrifying dawn resets the threat.
         Can the fire of your friendship overcome to fuel the bonfire flame?
     
     PC platform

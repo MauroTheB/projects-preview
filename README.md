@@ -2,7 +2,7 @@
 
 Here are the links to the current previews of my projects:
 
-**Personal Prtojects**:
+**Personal Projects**:
 
 - **A Child's Tale: Whisper of the Puppeteer**
     - *Description*: A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and         optionally free other victims).

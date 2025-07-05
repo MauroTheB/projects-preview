@@ -84,7 +84,7 @@ Here are the links to the current previews of my projects:
   
   [Gameplay](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)
 
-  ![Alt](COPERTINA_PUPPETEER.png)
+  ![Alt](MURDER_MAP.png)
 
 - **Drunk Stride - AI Project**: 
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 

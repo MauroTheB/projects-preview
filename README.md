@@ -67,7 +67,7 @@ Here are the links to the current previews of my projects:
   
   [Gameplay](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)
 
-- **Drunk Stride**: 
+- **Drunk Stride - AI Project**: 
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
         and never falls off the plane it rests on.
 
@@ -76,7 +76,7 @@ Here are the links to the current previews of my projects:
   
   [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
 
-- **Tide Walker**: 
+- **Tide Walker - AI Project**: 
     - *Description*: University project - Implement intelligence for an agent to navigate a hilly terrain generated with Perlin noise, ensuring it avoids 
         being submerged by a tide that rises and falls, making some areas underwater.
 

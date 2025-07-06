@@ -2,7 +2,7 @@
 
 ## 🧾 Index
 - [A Child's Tale: Whisper of the Puppeteer](#a-childs-tale-whisper-of-the-puppeteer)
-- [Installazione](#installazione)
+- [Maze's Soul](#mazes-soul)
 - [Utilizzo](#utilizzo)
 - [Contributi](#contributi)
 
@@ -23,7 +23,7 @@
 
     ![Alt](COPERTINA_PUPPETEER.png)
     
-- **Maze's Soul** 
+- ## Maze's Soul
     - *Description*: The game examines how a player's mind retains a 2D representation of the game world and applies it to a 3D view of the same world. 
         The game starts with a 30-second look at a maze, where the start and exit points are marked. When the timer runs out, the view smoothly transitions 
         to a third-person perspective behind the player. From this point, the player must navigate the maze by recalling the path to the exit seen earlier 

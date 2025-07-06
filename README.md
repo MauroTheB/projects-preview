@@ -78,6 +78,7 @@
 **Roles:** Team Leader, Lead Designer, Game Programmer
 
 [Game Design Document](https://docs.google.com/document/d/1fpTVNtxRZRQjRUyuJGvLJ1n6yKNfx2OF602rzuBqSH0/edit?usp=sharing)
+
 [Game Technical Document](https://docs.google.com/document/d/1gKfPVzjNPmzunMLUdYsWIt6gt6_uNcVJ67uM8Jx2o3Q/edit?usp=sharing)
 
 **Trailer:** [Watch it on YouTube](https://www.youtube.com/watch?v=iTNlmDLAY84)  

@@ -1,4 +1,4 @@
-[![Unity](https://img.shields.io/badge/Engine-Unity-black)](https://unity.com)[![C#](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)](https://docs.microsoft.com/dotnet/csharp/)[![Mirror](https://img.shields.io/badge/Networking-Mirror-magenta)](https://github.com/MirrorNetworking/Mirror)
+[![Unity](https://img.shields.io/badge/Engine-Unity-black)](https://unity.com)[![C#](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)](https://docs.microsoft.com/dotnet/csharp/)[![Mirror](https://img.shields.io/badge/Networking-Mirror-magenta)](https://github.com/MirrorNetworking/Mirror)[![Meta XR](https://img.shields.io/badge/VR-Meta--XR-7130BF?logo=meta)](https://developer.oculus.com/unity/unity-xr-plugin/)
 
 # 🎮 Project Previews
 

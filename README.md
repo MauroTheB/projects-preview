@@ -108,7 +108,7 @@
 **Institution:** University of Milan  
 **Roles:** Game Programmer, AI Programmer
 
-[Game Design Document](https://docs.google.com/document/d/1z4DLtkx2NxHcCoH8ayM2p_BCJlUkeQb6/edit?usp=sharing&ouid=118263974300292559359&rtpof=true&sd=true)
+[Game Design Document](https://docs.google.com/document/d/1DEL6Ltbon7Cg8H55J1wPtgwVDcfoNA1-/edit?usp=sharing&ouid=118263974300292559359&rtpof=true&sd=true)
 
 **Trailer:** [Watch it on YouTube](https://www.youtube.com/watch?v=ZpdFg5MHrdI)  
 **Gameplay:** [Watch it on YouTube](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)

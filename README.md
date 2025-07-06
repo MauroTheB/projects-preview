@@ -4,6 +4,7 @@
 **Personal Projects**:
 - [A Child's Tale: Whisper of the Puppeteer](#a-childs-tale-whisper-of-the-puppeteer)
 - [Maze's Soul](#mazes-soul)
+
 **Achademic/Collaborative Projects**:
 - [Pomegranade: Limbo](#pomegranade-limbo)
 - [Murder Mystery Incorporated](#murder-mystery-incorporated)

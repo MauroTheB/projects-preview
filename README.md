@@ -32,6 +32,10 @@
   <img src="COPERTINA_PUPPETEER.png" alt="Cover Puppeteer" width="50%" />
 </p>
 
+<p align="center">
+  <a href="#table-of-contents">🔙 Back to Index</a>
+</p>
+
 ---
 
 ## Maze's Soul

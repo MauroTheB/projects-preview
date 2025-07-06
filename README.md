@@ -91,7 +91,7 @@
 
   ![Alt](MURDER_MAP.png)
 
-- ## Drunk Stride - AI Project 
+- ## Drunk Stride - AI Project
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
         and never falls off the plane it rests on.
 
@@ -100,7 +100,7 @@
   
   [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
 
-- ## Tide Walker - AI Project 
+- ## Tide Walker - AI Project
     - *Description*: University project - Implement intelligence for an agent to navigate a hilly terrain generated with Perlin noise, ensuring it avoids 
         being submerged by a tide that rises and falls, making some areas underwater.
 

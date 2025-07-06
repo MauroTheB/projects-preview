@@ -32,7 +32,7 @@
   <img src="COPERTINA_PUPPETEER.png" alt="Cover Puppeteer" width="50%" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="#-table-of-contents">🔙 Back to Index</a>
 </p>
 
@@ -56,7 +56,7 @@
   <img src="COPERTINA_MAZE_3D.png" width="22.5%" alt="Maze 3D" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="#-table-of-contents">🔙 Back to Index</a>
 </p>
 
@@ -84,7 +84,7 @@
   <img src="POMEGRANADE_FIGHT.png" width="45%" alt="Fight Mode" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="#-table-of-contents">🔙 Back to Index</a>
 </p>
 
@@ -107,7 +107,7 @@
   <img src="MURDER_MAP.png" width="50%" alt="Murder Map" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="#-table-of-contents">🔙 Back to Index</a>
 </p>
 
@@ -122,7 +122,7 @@
 
 **Video:** [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
 
-<p align="center">
+<p align="right">
   <a href="#-table-of-contents">🔙 Back to Index</a>
 </p>
 
@@ -137,7 +137,7 @@
 
 **Video:** [Watch on Google Drive](https://drive.google.com/file/d/1n31xoqyCNswaqyIzV96ZRgyxjISxT7HT/view?usp=drive_link)
 
-<p align="center">
+<p align="right">
   <a href="#-table-of-contents">🔙 Back to Index</a>
 </p>
 

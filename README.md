@@ -9,7 +9,7 @@
 - [Pomegranade: Limbo](#pomegranade-limbo)
 - [Murder Mystery Incorporated](#murder-mystery-incorporated)
 - [Drunk Stride - AI Project](#drunk-stride---ai-project)
-- [Tide Walker - AI Project](#tide-walker-ai-project)
+- [Tide Walker - AI Project](#tide-walker---ai-project)
 
 
 - ## A Child's Tale: Whisper of the Puppeteer

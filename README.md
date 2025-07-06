@@ -1,7 +1,7 @@
 ### Project Previews
 
 ## 🧾 Index
-- [A Child's Tale: Whisper of the Puppeteer](#**A Child's Tale: Whisper of the Puppeteer**)
+- [A Child's Tale: Whisper of the Puppeteer](#a-child's-Tale:-Whisper-of-the-puppeteer**)
 - [Installazione](#installazione)
 - [Utilizzo](#utilizzo)
 - [Contributi](#contributi)
@@ -9,7 +9,7 @@
 
 **Personal Projects**:
 
-- #**A Child's Tale: Whisper of the Puppeteer**
+- ##**A Child's Tale: Whisper of the Puppeteer**
     - *Description*: A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and         optionally free other victims).
         Will you save her… or will he turn YOU into a puppet?
     

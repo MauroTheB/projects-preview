@@ -1,7 +1,8 @@
 ### Project Previews
 
 ## 🧾 Index
-- [A Child's Tale: Whisper of the Puppeteer](#a-child's-tale:-whisper-of-the-puppeteer)
+- [A Child's Tale: Whisper of the Puppeteer](#a-childs-tale--whisper-of-the-puppeteer
+)
 - [Installazione](#installazione)
 - [Utilizzo](#utilizzo)
 - [Contributi](#contributi)

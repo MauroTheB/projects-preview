@@ -91,7 +91,7 @@
 
   ![Alt](MURDER_MAP.png)
 
-- ## Drunk Stride - AI Project
+- ## Drunk Stride-AI Project
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
         and never falls off the plane it rests on.
 

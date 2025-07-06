@@ -56,6 +56,10 @@
   <img src="COPERTINA_MAZE_3D.png" width="22.5%" alt="Maze 3D" />
 </p>
 
+<p align="center">
+  <a href="#-table-of-contents">🔙 Back to Index</a>
+</p>
+
 ---
 
 ## Pomegranade: Limbo
@@ -80,6 +84,10 @@
   <img src="POMEGRANADE_FIGHT.png" width="45%" alt="Fight Mode" />
 </p>
 
+<p align="center">
+  <a href="#-table-of-contents">🔙 Back to Index</a>
+</p>
+
 ---
 
 ## Murder Mystery Incorporated
@@ -99,6 +107,10 @@
   <img src="MURDER_MAP.png" width="50%" alt="Murder Map" />
 </p>
 
+<p align="center">
+  <a href="#-table-of-contents">🔙 Back to Index</a>
+</p>
+
 ---
 
 ## Drunk Stride - AI Project
@@ -110,6 +122,10 @@
 
 **Video:** [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
 
+<p align="center">
+  <a href="#-table-of-contents">🔙 Back to Index</a>
+</p>
+
 ---
 
 ## Tide Walker - AI Project
@@ -120,6 +136,10 @@
 **Institution:** University of Milan
 
 **Video:** [Watch on Google Drive](https://drive.google.com/file/d/1n31xoqyCNswaqyIzV96ZRgyxjISxT7HT/view?usp=drive_link)
+
+<p align="center">
+  <a href="#-table-of-contents">🔙 Back to Index</a>
+</p>
 
 ---
 

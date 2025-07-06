@@ -1,13 +1,15 @@
 ### Project Previews
 
 ## 🧾 Index
+**Personal Projects**:
 - [A Child's Tale: Whisper of the Puppeteer](#a-childs-tale-whisper-of-the-puppeteer)
 - [Maze's Soul](#mazes-soul)
-- [Utilizzo](#utilizzo)
-- [Contributi](#contributi)
+**Achademic/Collaborative Projects**:
+- [Pomegranade: Limbo](#pomegranade-limbo)
+- [Murder Mystery Incorporated](#murder-mystery-incorporated)
+- [Drunk Stride - AI Projec](#drunk-stride-ai-project)
+- [Tide Walker - AI Projec](#tide-walker-ai-project)
 
-
-**Personal Projects**:
 
 - ## A Child's Tale: Whisper of the Puppeteer
     - *Description*: A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and         optionally free other victims).
@@ -45,10 +47,7 @@
   <img src="COPERTINA_MAZE_3D.png" width="22.5%" />
   </p>
 
-
-**Achademic/Collaborative Projects**:
-
-- **Pomegranade: Limbo**
+- ## Pomegranade: Limbo
     - *Description*: A 2–4 online multiplayer co-op survival game set in an enchanted forest limbo. Players alternate between frantic combat—using weapons whose ammunition is crafted from harvested magical pomegranates—and strategic calm phases where they repair shelters and tend a         bonfire before the petrifying dawn resets the threat.
         Can the fire of your friendship overcome to fuel the bonfire flame?
     
@@ -75,7 +74,7 @@
     </p>
 
 
-- **Murder Mystery Incorporated**
+- ## Murder Mystery Incorporated
     - *Description*: A 2D puzzle-strategy game for PC and browser in which you play a rookie agent of a shadowy intelligence agency. Plan and watch “perfect murders” by arranging agents’ actions and placing items on a timeline—ensuring your target dies without arousing         suspicion.
     
     PC platform
@@ -91,7 +90,7 @@
 
   ![Alt](MURDER_MAP.png)
 
-- **Drunk Stride - AI Project**: 
+- ## Drunk Stride - AI Project 
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
         and never falls off the plane it rests on.
 
@@ -100,7 +99,7 @@
   
   [Watch on Google Drive](https://drive.google.com/file/d/1fvivrFPGrrg9HMpXkVNfUsbZD5gTZ5eK/view?usp=drive_link)
 
-- **Tide Walker - AI Project**: 
+- ## Tide Walker - AI Project 
     - *Description*: University project - Implement intelligence for an agent to navigate a hilly terrain generated with Perlin noise, ensuring it avoids 
         being submerged by a tide that rises and falls, making some areas underwater.
 

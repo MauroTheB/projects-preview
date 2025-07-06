@@ -23,7 +23,9 @@
 - *Description*: A first-person horror exploration game in which the player follow a guiding female voice through an abandoned house, collect items and documents, and avoid the Puppeteer—a sorcerer who turns victims into living puppets—to rescue a missing woman (and optionally free other victims).  
   Will you save her… or will he turn YOU into a puppet?
 
-- PC platform  
+- PC platform
+
+- **Meta XR** VR integration updates coming soon…
 
 **Authors:** Mauro Brochier  
 **Roles:** Game Designer, Game Programmer

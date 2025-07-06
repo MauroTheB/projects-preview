@@ -8,7 +8,7 @@
 **Achademic/Collaborative Projects**:
 - [Pomegranade: Limbo](#pomegranade-limbo)
 - [Murder Mystery Incorporated](#murder-mystery-incorporated)
-- [Drunk Stride - AI Project](#drunk-stride-ai-project)
+- [Drunk Stride - AI Project](#drunk-stride---ai-project)
 - [Tide Walker - AI Project](#tide-walker-ai-project)
 
 
@@ -91,7 +91,7 @@
 
   ![Alt](MURDER_MAP.png)
 
-- ## Drunk Stride-AI Project
+- ## Drunk Stride - AI Project
     - *Description*: University project - Implement behavior for an agent with circular movements on a plane, so that it moves along tangent circles 
         and never falls off the plane it rests on.
 

@@ -30,7 +30,7 @@
 **Authors:** Mauro Brochier  
 **Roles:** Game Designer, Game Programmer
 
-[Game Design Document(light version)](https://docs.google.com/document/d/1idhxIS7nfZPsK8Cw8_64o_bAl063Tsnz/edit?usp=sharing&ouid=118263974300292559359&rtpof=true&sd=true)
+[Game Design Document(light version)](https://docs.google.com/document/d/12cTheqaPUP9HEnYansgj9i_p2kzd_NlF/edit?usp=sharing&ouid=118263974300292559359&rtpof=true&sd=true)
 
 **Gameplay:** (Use headphones for the best experience — advanced audio techniques have been applied, and some sounds may be inaudible without them): [Watch it on Google Drive](https://drive.google.com/file/d/1CdrBNqMxAHN5BlASmGRHs-pMYHlzATpJ/view?usp=sharing)
 

@@ -1,4 +1,10 @@
-[![Unity](https://img.shields.io/badge/Engine-Unity-black)](https://unity.com)[![C#](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)](https://docs.microsoft.com/dotnet/csharp/)[![Mirror](https://img.shields.io/badge/Networking-Mirror-magenta)](https://github.com/MirrorNetworking/Mirror)[![Meta XR](https://img.shields.io/badge/VR-Meta--XR-7130BF?logo=meta)](https://developer.oculus.com/unity/unity-xr-plugin/)
+[![Unity](https://img.shields.io/badge/Engine-Unity-black)](https://unity.com)
+[![C#](https://img.shields.io/badge/Language-C%23-blue?logo=c-sharp)](https://docs.microsoft.com/dotnet/csharp/)
+[![C++](https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B)](https://isocpp.org)
+[![OpenGL](https://img.shields.io/badge/Graphics-OpenGL-blue?logo=opengl)](https://www.opengl.org)
+[![CUDA](https://img.shields.io/badge/GPU-CUDA-green?logo=nvidia)](https://developer.nvidia.com/cuda-toolkit)
+[![Mirror](https://img.shields.io/badge/Networking-Mirror-magenta)](https://github.com/MirrorNetworking/Mirror)
+[![Meta XR](https://img.shields.io/badge/VR-Meta--XR-7130BF?logo=meta)](https://developer.oculus.com/unity/unity-xr-plugin/)
 
 # 🎮 Project Previews
 

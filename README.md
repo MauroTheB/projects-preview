@@ -126,8 +126,6 @@
 
 ---
 
----
-
 ## Real-Time Water Simulation
 
 - *Description*: Developed a real-time water simulation in OpenGL, handling physical interactions between objects of arbitrary shapes and fluid surface dynamics. Optimized using CUDA for parallel computation.

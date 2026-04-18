@@ -137,7 +137,7 @@
 **Institution:** University of Milan  
 **Roles:** Graphics Programmer
 
-**Video:** [Watch on Google Drive](https://drive.google.com/file/d/1SSt9NNn0LSsy904b9N3yUaVozUVa0Y7O/view?usp=sharing))
+**Video:** [Watch on Google Drive](https://drive.google.com/file/d/1SSt9NNn0LSsy904b9N3yUaVozUVa0Y7O/view?usp=sharing)
 
 <p align="right">
   <a href="#-table-of-contents">🔙 Back to Index</a>

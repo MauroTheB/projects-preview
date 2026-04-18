@@ -12,7 +12,8 @@
 
 **Academic & Collaborative Projects**  
 - [Pomegranade: Limbo](#pomegranade-limbo)  
-- [Murder Mystery Incorporated](#murder-mystery-incorporated)  
+- [Murder Mystery Incorporated](#murder-mystery-incorporated)
+- [Real-Time Water Simulation](#real-time-water-simulation)
 - [Drunk Stride - AI Project](#drunk-stride---ai-project)  
 - [Tide Walker - AI Project](#tide-walker---ai-project)  
 
@@ -124,6 +125,25 @@
 </p>
 
 ---
+
+---
+
+## Real-Time Water Simulation
+
+- *Description*: Developed a real-time water simulation in OpenGL, handling physical interactions between objects of arbitrary shapes and fluid surface dynamics. Optimized using CUDA for parallel computation.
+- Real-time fluid simulation
+- GPU acceleration with CUDA
+- PC platform  
+
+**Authors:** Mauro Brochier  
+**Institution:** University of Milan  
+**Roles:** Graphics Programmer
+
+**Video:** [Watch on Google Drive]((https://drive.google.com/file/d/1SSt9NNn0LSsy904b9N3yUaVozUVa0Y7O/view?usp=sharing))
+
+<p align="right">
+  <a href="#-table-of-contents">🔙 Back to Index</a>
+</p>
 
 ## Drunk Stride - AI Project
 

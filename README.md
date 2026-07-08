@@ -115,7 +115,7 @@
 
 **Authors:** Mauro Brochier, Matteo Mangioni, Anthony Baiamonte, Christian Colombo  
 **Institution:** University of Milan  
-**Roles:** Game Programmer, AI Programmer,Game Designer (AI Systems)
+**Roles:** Game Programmer, AI Programmer, Game Designer (AI Systems)
 
 [Game Design Document](https://github.com/MauroTheB/MurderMysteryInfo/blob/main/Documents/GameDesignDocument.md)
 

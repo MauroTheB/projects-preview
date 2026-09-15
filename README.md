@@ -121,6 +121,7 @@
 
 **Trailer:** [Watch it on YouTube](https://www.youtube.com/watch?v=ZpdFg5MHrdI)  
 **Gameplay:** [Watch it on YouTube](https://www.youtube.com/watch?v=wDj0Gx3CgIQ)
+**Playable Demo:** [Try the game on itch.io](https://polimi-game-collective.itch.io/murder-mystery-incorporated)
 
 <p align="center">
   <img src="MURDER_MAP.png" width="50%" alt="Murder Map" />
